@@ -1,0 +1,5 @@
+.btn {
+  @include buttonColor("white");
+  @include buttonColor("gray");
+  @include buttonSize("sm");
+}
